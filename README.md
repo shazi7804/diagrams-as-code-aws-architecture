@@ -6,15 +6,10 @@ For example, generate aws simple architecture of [diagrams](https://github.com/m
 
 ![](aws_simple_architecture.png)
 
-## Install
+## Requirements
 
-```
-# use pip
-pip install diagrams
-
-# use poetry
-poetry install diagrams
-```
+- diagrams, `pip install diagrams`
+- graphviz, `brew install graphviz`
 
 ## Run
 
